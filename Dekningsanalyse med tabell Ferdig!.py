@@ -1,8 +1,8 @@
 from docx import Document
 from docx.shared import Cm, Pt
 
-forfatter="Anna"
-bedriftsNavn="Simonsen"
+forfatter="forfatter"
+bedriftsNavn="bedriftsnavn"
 pris=8000
 VEK=6500
 mengde=500
